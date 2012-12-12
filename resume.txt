@@ -22,7 +22,7 @@ I'm a software developer and perpetual student living in Brooklyn, NY. Most of t
 
 ### Custora
 #### Engineer - June 2012 to Oct 2012
-* Researched and implemented extensions in R to Custora’s bayesian probability models of customer buying behavior.
+* Researched and implemented extensions to Custora’s bayesian probability models of customer buying behavior.
 * Wrote code in R to visualize customer profit distributions for each of Custora's clients in ecommerce.
 * Integrated Custora's Ruby on Rails marketing platform with external email providers.
 
