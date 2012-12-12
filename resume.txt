@@ -17,7 +17,7 @@ I'm a software developer and perpetual student living in Brooklyn, NY. Most of t
 * PyLibfm - Work in progress python bindings to Steffen Rendle’s LibFM, a c++ library implementing factorization machines for collaborative filtering and recommendation.
 * Sklearn - cython optimization: Rewrote a slow clustering evaluation function's in cython. Yielded a 50x speedup on AMI tests. 
 * Sklearn - Undersampler: Added a transformer class that creates balanced datasets by randomly undersampling the majority class until class proportions are even.
-* Bloomin: Counting bloom filter written in C with bindings in python.
+* Bloomin - Counting bloom filter written in C with bindings in python.
 
 ### Custora
 #### Engineer - June 2012 to Oct 2012
