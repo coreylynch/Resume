@@ -1,4 +1,5 @@
 ![alt text](http://analogmedium.com/blog/2008/06/NES-tc-surf-design.gif "Logo Title Text 1")
+
 # Corey Lynch
 
  * <coreylynch9@gmail.com>
@@ -6,7 +7,7 @@
  * 808-384-4406
 
 ## Background
-I'm a software developer and perpetual student living in Brooklyn, NY. Most of the code I have written is in Python and C. Keen on machine learning and NLP in sklearn. I like pandas, numpy, joblib, cython, Kaggle competitions, and cool stickers.
+I'm a software developer living in Brooklyn, NY. Most of the code I have written is in Python and C. I'm keen on machine learning and NLP in sklearn, pandas, numpy, joblib, cython, Kaggle competitions, and cool stickers.
 
 ## Experience
 
