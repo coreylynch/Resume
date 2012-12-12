@@ -4,6 +4,9 @@
  * <http://github.com/coreylynch>
  * 808-384-4406
 
+## Background
+I'm a software developer and perpetual student living in Brooklyn, NY. Most of the code I have written is in Python and C. Keen on machine learning and NLP in sklearn. I like pandas, numpy, joblib, cython, Kaggle competitions, and cool stickers.
+
 ## Experience
 
 ### Hacker School
