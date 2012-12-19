@@ -15,8 +15,8 @@ I'm a software developer living in Brooklyn, NY. Most of the code I have written
 
 #### Student - Oct 2012 to Present
 
-* Sklearn - Learning to rank: Implemented Sofia-ML’s RankSVM via Stochastic Pairwise Descent (SPD) in cython for a python machine learning library.
-* PyLibfm - Work in progress python bindings to Steffen Rendle’s LibFM, a c++ library implementing factorization machines for collaborative filtering and recommendation.
+* Sklearn - Learning to rank: Implemented [Google's Sofia-ML](https://code.google.com/p/sofia-ml/) RankSVM via Stochastic Pairwise Descent (SPD) in cython for a python machine learning library.
+* [PyLibfm](https://github.com/coreylynch/pyLibFM) - Wrote the python bindings for Steffen Rendle’s [LibFM](http://libfm.org/), a C++ library implementing factorization machines for context-aware collaborative filtering and recommendation.
 * Sklearn - cython optimization: Rewrote a slow clustering evaluation function's in cython. Yielded a 50x speedup on AMI tests. 
 * Sklearn - Undersampler: Added a transformer class that creates balanced datasets by randomly undersampling the majority class until class proportions are even.
 * Bloomin - Counting bloom filter written in C with bindings in python.
