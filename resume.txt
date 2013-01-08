@@ -38,7 +38,7 @@ NYU Stern BA Finance & Information Systems 2007 - 2010
 
 ## Weekend projects
 
-###[Poets That Don't Know It](twitter.com/poetsdontknowit/favorites)
+###[Poets That Don't Know It](https://twitter.com/poetsdontknowit/favorites)
 A bot that builds haikus in real time using the twitter public timeline. Tweets are preprocessed in python, topic modeled using gensim's online latent dirichlet allocation, and stored in mongodb.
 
 ###[Art Influence](https://github.com/coreylynch/art-influence)
